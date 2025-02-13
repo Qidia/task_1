@@ -55,3 +55,4 @@ console.log(symbol1);
 let bigInt1 = 1234n;
 let bigInt2 = BigInt(123456789);
 console.log(bigInt1, bigInt2);
+
